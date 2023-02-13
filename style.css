@@ -153,32 +153,3 @@ strong{
 .extra > p > a:hover{
     background-color: rgba(0, 160, 0, 0.300);
 }
-
-.rodape{
-    background-color: black;
-    text-align: center;
-    margin: 0px;
-    width: auto;
-}
-
-.rodape > h4{
-    margin: 0px;
-    padding: 20px;
-    text-decoration: underline;
-}
-
-.rodape > .menu > a{
-    color: white;
-    border-radius: 5px;
-    display:inline-block;
-    padding: 10px;
-}
-
-.rodape > .menu > a:hover{
-    background-color: rgba(255, 255, 255, 0.050);
-}
-
-.rodape > p{
-    display: inline-block;
-    margin: 20px;
-}
