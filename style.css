@@ -43,7 +43,7 @@ body{
     border-radius: 5px;
     text-align: left;
     display:inline-block;
-    margin: 35px 0px 0px 15px;
+    margin: 30px 0px 0px 15px;
     padding: 5px;
 }
 
@@ -54,7 +54,7 @@ body{
 
 .cont{
     margin: auto;
-    padding: 0px 30px 0px 30px;
+    padding: 0px 20px 0px 20px;
     color: black;
     background-color: white;
     min-width: 300px;
