@@ -100,11 +100,21 @@ strong{
     color: rgb(0, 160, 0);
 }
 
-.cont > img{
+.bugdroid{
+    width: 100%;
+}
+
+.irina{
+    padding: 20px 0px 20px 0px;
+    width: 100%;
+}
+
+.bugdroid02{
     width: 100%;
     margin: auto;
     display: block;
 }
+
 
 .video{
     background-color: rgba(0, 100, 0);
