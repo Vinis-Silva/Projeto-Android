@@ -1,2 +1,2 @@
 # Projeto-Android
-projeto realizado graças às aulas da CursoEmVideo.
+projeto realizado graças às aulas da CursoEmVideo com Gustavo Guanabara.
