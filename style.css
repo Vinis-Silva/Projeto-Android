@@ -18,7 +18,7 @@ body{
     background-image: linear-gradient(to bottom,rgb(0, 160, 0),rgb(0, 50, 0),rgb(0, 30, 0));
     background-attachment: fixed;
     width: auto;
-    height: 200px;
+    height: auto;
 }
 
 .cab > h1{
